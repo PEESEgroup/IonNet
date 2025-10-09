@@ -81,6 +81,6 @@ This software was primarily written by `Dr. Zhilong Wang` who is advised by `Pro
 ## How to cite
 Please cite the following work if you want to use IonNet:
 
-    Zhilong Wang, Fengqi You*. Submitted (2025). 20/09/2025
+    Zhilong Wang, Fengqi You*. Submitted (2025).
 
 
