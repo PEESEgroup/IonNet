@@ -67,13 +67,13 @@ Using the well-trained models in `trained_models`, one can predict the ionic con
     python predict.py
 
 ## Substitution
-A script for creating the substituted compounds from the screened Materials Project (`Li-MP-final.csv`) is provided. Two functions, including the single-element substitution and double-element substitution are given:
+A script for creating the substituted compounds from the screened Materials Project (`Li-MP-final.csv`) is provided. Two functions, including the single-element substitution and double-element substitution are given in MLFF:
 
-    python substitute.py
+    python generation.py
 
 A script for generating possible substituted structures based on the original structure is provided. The structures will be saved as CIF files, and then the MLPs can be used to evaluate the formation energy or to optimize the structures directly.
 
-    python generation.py
+    python optimizatiopn.py
 
 ## Author contributions
 This software was primarily written by `Dr. Zhilong Wang` who is advised by `Prof. Fengqi You`.
@@ -81,6 +81,6 @@ This software was primarily written by `Dr. Zhilong Wang` who is advised by `Pro
 ## How to cite
 Please cite the following work if you want to use IonNet:
 
-    Zhilong Wang, Fengqi You*. Submitted (2025).
+    Zhilong Wang, Fengqi You*. Submitted (2026).
 
 
